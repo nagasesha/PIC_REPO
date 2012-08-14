@@ -6,7 +6,6 @@ main()
 
 # comment added to the same comment
 
-#
 
 
 }
