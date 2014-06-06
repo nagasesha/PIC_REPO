@@ -1,0 +1,20 @@
+
+HostName: ingbtcpic8dtsd5
+IP Address: 161.85.107.210
+Mac Address: D4-C9-EF-F3-33-3D
+
+
+HostName: ingbtcpic8dtsd6
+IP Address: 161.85.107.161
+Mac Address:D4-C9-EF-F1-58-96 
+
+
+HostName: ingbtcpic8dtsd9
+IP Address:  161.85.107.49
+Mac Address: 2C-44-FD-0F-55-85
+
+ 
+ 
+ https://pww.trac.philips.com/svn/starsense_rf_pro/trunk/Tools/SCTestTool
+ 
+ 
